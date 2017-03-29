@@ -8,5 +8,9 @@ Auto Like Facebook Status script by Robot Framework (Selenium2Library)
 4. Add your_username and your_password in test.robot
 5. Open Command Promp 
 6. Chang location(cd) to .robot file
-7. Type pybot test.robot
-8. done
+7. Type "pybot test.robot"
+8. Enjoy!!!!
+
+Bugs: 
+- If facebook feeds have suggest fanpage this script will like that.
+- After login completed you need to click allow in Chrome pop up
